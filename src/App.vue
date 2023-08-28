@@ -225,14 +225,14 @@ import Tabb from "./components/Tabb.vue";
 		}
 		.text14-clz {
 			font-weight: bold;
-			font-size: 16px !important;
+			font-size: 16px ;
 		}
 		.flex10-clz {
 			margin-left: 8px;
 			padding-top: 8px;
 			color: #989898;
 			padding-left: 8px;
-			width: calc(100% - 8px - 8px) !important;
+			width: calc(100% - 8px - 8px) ;
 			padding-bottom: 8px;
 			margin-top: 8px;
 			margin-bottom: 0px;
