@@ -1,4 +1,4 @@
-<script setup lang="ts">
+<script>
 import Navv from "./components/Navv.vue";
 import Tabb from "./components/Tabb.vue";
 </script>
