@@ -17,7 +17,7 @@ import Tabb from "./components/Tabb.vue";
 </div>
 </template>
 
-<style scoped>
+<style>
 .flex15-clz {
 			padding-top: 5px;
 			padding-left: 5px;
